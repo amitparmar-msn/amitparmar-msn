@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitparmar-msn
 - 👀 I’m interested in programming in JavaScript.
-- 🌱 I’m currently learning Angular JS with NodeJS
+- 🌱 I’m currently working on NextJS with NodeJS.
 - 📫 How to reach me amitparmar.msn@gmail.com
 
 <!---
